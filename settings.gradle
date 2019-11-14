@@ -1,0 +1,2 @@
+include ':app', ':ratingdialog'
+rootProject.name='Rating Dilalog Sample'
